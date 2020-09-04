@@ -1,0 +1,15 @@
+{
+  "name": "query-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-query-parser": "^0.2.4",
+    "ramda": "^0.27.1"
+  }
+}
